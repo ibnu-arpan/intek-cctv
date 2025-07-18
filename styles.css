@@ -1044,7 +1044,7 @@ button {
 }
 
 /* Medium Screens */
-@media (max-width: 768px) {
+@media (max-width: 992px) {
   html {
     font-size: 15px;
   }
